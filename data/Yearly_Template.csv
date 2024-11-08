@@ -1,9 +1,9 @@
 Unnamed: 0,"""=BDH($A$1, $B7, ""19900101"","""",""sort=a"",""dir=h"",""per=cy"")"
 ,"""=BDH($A$1, $B8, ""19900101"","""",""sort=a"",""dates=h"",""dir=h"",""per=cy"")"
 ,
+date,
 ,
-,
-Total Assets,
+date,
 "  + Cash, Cash Equivalents & STI",CASH_CASH_EQTY_STI_DETAILED
     + Cash & Cash Equivalents,BS_CASH_NEAR_CASH_ITEM
     + ST Investments,BS_MKT_SEC_OTHER_ST_INVEST

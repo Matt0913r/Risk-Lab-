@@ -1,9 +1,9 @@
 Unnamed: 0,"""=BDH($A$1, $B7, ""19900101"","""",""sort=a"",""dir=h"",""per=cy"")",Unnamed: 2
 ,"""=""=BDH($A$1, B"" & ROW() & "", """"19900101"""","""""""",""""sort=a"""",""""dates=h"""",""""dir=h"""",""""per=cy"""")""",
 ,,
+date,,
 ,,
-,,
-Total Assets,,"=BDH($A$1, $B7, ""19900101"","""",""sort=a"",""dir=h"",""per=cy"")"
+date,,"=BDH($A$1, $B7, ""19900101"","""",""sort=a"",""dir=h"",""per=cy"")"
 "  + Cash, Cash Equivalents & STI",CASH_CASH_EQTY_STI_DETAILED,
     + Cash & Cash Equivalents,BS_CASH_NEAR_CASH_ITEM,"=BDH($A$1, B8, ""19900101"","""",""sort=a"",""dates=h"",""dir=h"",""per=cy"")"
     + ST Investments,BS_MKT_SEC_OTHER_ST_INVEST,"=BDH($A$1, B9, ""19900101"","""",""sort=a"",""dates=h"",""dir=h"",""per=cy"")"
